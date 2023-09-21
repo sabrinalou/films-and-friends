@@ -1,0 +1,78 @@
+{
+    "group name": "My Friends' Theatre",
+    "group movies": [
+        {
+            "director": "guillermo del toro",
+            "user ratings": [{
+                "rating": 5,
+                "username": "elio"
+            }],
+            "user watch dates": [{
+                "date": "2023/1/3",
+                "username": "elio"
+            }],
+            "title": "shape of water"
+        },
+        {
+            "director": "kronk",
+            "user ratings": [{
+                "rating": 4,
+                "username": "elio"
+            }],
+            "user watch dates": [{
+                "date": "23/03/29",
+                "username": "elio"
+            }],
+            "title": "Emperor's New Groove"
+        }
+    ],
+    "users": [
+        {
+            "watched": [],
+            "to-watch": [
+                {
+                    "director": "jb",
+                    "title": "kung fu 2"
+                },
+                {
+                    "director": "dir",
+                    "title": "movie"
+                }
+            ],
+            "username": "sab"
+        },
+        {
+            "watched": [
+                {
+                    "director": "guillermo del toro",
+                    "user ratings": [{
+                        "rating": 5,
+                        "username": "elio"
+                    }],
+                    "user watch dates": [{
+                        "date": "2020/20/2",
+                        "username": "elio"
+                    }],
+                    "title": "shape of water"
+                },
+                {
+                    "director": "kronk",
+                    "user ratings": [{
+                        "rating": 4,
+                        "username": "elio"
+                    }],
+                    "user watch dates": [{
+                        "date": "2020/23///",
+                        "username": "elio"
+                    }],
+                    "title": "Emperor's New Groove"
+                }
+            ],
+            "to-watch": [{
+                "director": "dir",
+                "title": "new movie"
+            }],
+            "username": "elio"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "group name": "squad",
+    "group movies": [
+        {
+            "director": "sam",
+            "user ratings": [
+                {
+                    "rating": 4,
+                    "username": "elio"
+                },
+                {
+                    "rating": 5,
+                    "username": "sab"
+                }
+            ],
+            "user watch dates": [
+                {
+                    "date": "230204",
+                    "username": "elio"
+                },
+                {
+                    "date": "230204",
+                    "username": "sab"
+                }
+            ],
+            "title": "a"
+        },
+        {
+            "director": "sam",
+            "user ratings": [],
+            "user watch dates": [{
+                "date": "230204",
+                "username": "elio"
+            }],
+            "title": "b"
+        }
+    ],
+    "users": [
+        {
+            "watched": [{
+                "director": "sam",
+                "user ratings": [
+                    {
+                        "rating": 4,
+                        "username": "elio"
+                    },
+                    {
+                        "rating": 5,
+                        "username": "sab"
+                    }
+                ],
+                "user watch dates": [
+                    {
+                        "date": "230204",
+                        "username": "elio"
+                    },
+                    {
+                        "date": "230204",
+                        "username": "sab"
+                    }
+                ],
+                "title": "a"
+            }],
+            "to-watch": [{
+                "director": "sam",
+                "title": "a"
+            }],
+            "username": "sab"
+        },
+        {
+            "watched": [
+                {
+                    "director": "sam",
+                    "user ratings": [
+                        {
+                            "rating": 4,
+                            "username": "elio"
+                        },
+                        {
+                            "rating": 5,
+                            "username": "sab"
+                        }
+                    ],
+                    "user watch dates": [
+                        {
+                            "date": "230204",
+                            "username": "elio"
+                        },
+                        {
+                            "date": "230204",
+                            "username": "sab"
+                        }
+                    ],
+                    "title": "a"
+                },
+                {
+                    "director": "sam",
+                    "user ratings": [],
+                    "user watch dates": [{
+                        "date": "230204",
+                        "username": "elio"
+                    }],
+                    "title": "b"
+                }
+            ],
+            "to-watch": [],
+            "username": "elio"
+        }
+    ]
+}
